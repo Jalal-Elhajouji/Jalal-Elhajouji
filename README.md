@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Checkout my projects at [https://GitHub.com/Jalal-Elhajouji](https://GitHub.com/Jalal-Elhajouji)
-
 - 💬 Ask me about **Laravel, MySQL**
+
+- 👨‍💻 Checkout my projects at [https://GitHub.com/Jalal-Elhajouji](https://GitHub.com/Jalal-Elhajouji)
 
 - 📫 How to reach me **jalalelhajouji@gmail.com**
 
@@ -56,9 +56,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
-      width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
+      alt="mysql" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
       height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
